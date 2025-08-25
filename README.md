@@ -20,22 +20,35 @@ A resposta talvez esteja no equilíbrio. As IAs generativas não vieram para sub
 No fim das contas, o que nos diferencia não é apenas o que criamos, mas a intenção por trás da criação. E isso, por enquanto, continua sendo exclusivamente humano.
 
 
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
-## 📒 Descrição
-Breve descrição do seu projeto
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- Copilot
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+- A criação foi feita com ajuda da IA Copilot (Microsoft)
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+### Natural ou Fake Natty?
+- Como vencer na era das IAs generativas?
+  Uma jornada entre o real e o artificial, onde a percepção é moldada por algoritmos e a autenticidade é questionada.
+
+  ## Introdução
+
+  - Vivemos uma revolução silenciosa: IAs generativas estão redefinindo o que é possível criar.
+  - Mas com isso surge uma dúvida: ainda conseguimos distinguir o que é natural do que é artificial?
+  - Este projeto propõe uma reflexão sobre como navegar nesse novo mundo.
+
+  ## O Problema
+
+  - Imagens hiper-realistas geradas por IA confundem até especialistas.
+  - Textos, vozes e vídeos podem ser criados sem intervenção humana.
+  - A confiança naquilo que vemos, ouvimos e lemos está sendo desafiada.
+
+  ## Exemplos Impactantes
+
+  - Foto de um "Fisiculturista" viraliza - mas é 100% gerada por IA
+    ![Fisiculturista gerado por IA] (Copilot_20250825_Fisiculturista.png)
+    
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.

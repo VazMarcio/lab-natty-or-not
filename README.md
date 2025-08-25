@@ -22,7 +22,7 @@ No fim das contas, o que nos diferencia não é apenas o que criamos, mas a inte
 
 
 ## 🤖 Tecnologias Utilizadas
-- Texto gerado com auxiio do Copilot (Microsoft)
+- Texto gerado com auxilio do Copilot (Microsoft)
   
 
 ## 🧐 Processo de Criação

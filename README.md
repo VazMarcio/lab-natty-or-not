@@ -47,7 +47,9 @@ No fim das contas, o que nos diferencia não é apenas o que criamos, mas a inte
   ## Exemplos Impactantes
 
   - Foto de um "Fisiculturista" viraliza - mas é 100% gerada por IA
-   ![Imagem gerada por Copilot](Copilot_20250825_111557.png)
+  <img src="Imagens/Copilot_20250825_111557.png" alt="Imagem gerada por Copilot" width="400"/>
+
+  
 
     
 
